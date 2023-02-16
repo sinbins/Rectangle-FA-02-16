@@ -1,0 +1,15 @@
+D:\C#Projects\FA_CreateRectangle\bin\Debug\net6.0\FA_CreateRectangle.exe
+D:\C#Projects\FA_CreateRectangle\bin\Debug\net6.0\FA_CreateRectangle.deps.json
+D:\C#Projects\FA_CreateRectangle\bin\Debug\net6.0\FA_CreateRectangle.runtimeconfig.json
+D:\C#Projects\FA_CreateRectangle\bin\Debug\net6.0\FA_CreateRectangle.dll
+D:\C#Projects\FA_CreateRectangle\bin\Debug\net6.0\FA_CreateRectangle.pdb
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.csproj.AssemblyReference.cache
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.AssemblyInfoInputs.cache
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.AssemblyInfo.cs
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.csproj.CoreCompileInputs.cache
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.dll
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\refint\FA_CreateRectangle.dll
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.pdb
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\FA_CreateRectangle.genruntimeconfig.cache
+D:\C#Projects\FA_CreateRectangle\obj\Debug\net6.0\ref\FA_CreateRectangle.dll
